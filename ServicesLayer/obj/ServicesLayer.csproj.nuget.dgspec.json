@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj": {}
+    "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\RepositoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj": {
+    "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj",
         "projectName": "ServicesLayer",
-        "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj",
+        "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\ServicesLayer\\ServicesLayer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\ServicesLayer\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\ServicesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,11 +166,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj"
+              "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }

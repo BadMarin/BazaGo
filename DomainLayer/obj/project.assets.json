@@ -898,11 +898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\marinBBB\\BadashkoNew\\DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\marinBBB\\BadashkoNew\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

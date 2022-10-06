@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\marinBBB\BadashkoNew\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\marinBBB\BadashkoNew\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\marinBBB\BadashkoNew\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\marinBBB\BadashkoNew\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\user\Desktop\marinBBB\BadashkoNew\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
